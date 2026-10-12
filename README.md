@@ -20,7 +20,7 @@
 pip install -r requirements.txt
 ```
 
-2. Создайте файл `.env` и заполните его по оьбразцу `.env.example`:
+2. Создайте файл `.env` и заполните его по образцу `.env.example`:
 
 ```env
 GROQ_API_KEY=your_groq_api_key_here
