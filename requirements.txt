@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-groq
+langgraph
+duckduckgo-search
+requests
+python-dotenv
+ddgs
+bs4
+html2text
+psycopg2-binary
+chronos-forecasting
